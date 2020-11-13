@@ -174,7 +174,16 @@
 	color: #FFFFFF;
 	text-align: center;
 	line-height: 36px;
-	background: #EC1F46;
+	display: block;
+	background-color: #EC1F46;
+	border-radius: 5px;
+	border: none;
+	transition: background-color .4s linear;
+}
+
+.portfolio__button:hover {
+	cursor: pointer;
+	background-color: #d40b30;
 }
 
 .gallery {
