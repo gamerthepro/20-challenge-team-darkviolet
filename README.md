@@ -14,9 +14,11 @@
 
 ## Биф
 
-Ссылка на макет в Биф https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf
+https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf
 
 ## Ссылка на проект 
+
+https://gamerthepro.github.io/20-challenge-team-darkviolet/.
 
 Инструкция по запуску проекта
 
